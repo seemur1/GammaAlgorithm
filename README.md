@@ -1,4 +1,4 @@
-# GammaAlgorithm
+# SomeCppProjects
 In main.cpp - there is Gamma Algorithm for advanced algorithms cource (with good codestyle)
 
 In example.txt - there is an example of Gamma Algorithm input.
